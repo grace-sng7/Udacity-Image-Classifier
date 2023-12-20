@@ -2,16 +2,16 @@ The following are the console outputs when I ran my scripts. I did not get to ru
 
 # vgg16 model:
 ## train.py
-![here](./resources/media/vgg_train.png)
+![here](./vgg_train.png)
 ## predict.py
-![here](./resources/media/vgg_predict.png)
+![here](./vgg_predict.png)
 
 
 # densenet121 model:
 ## train.py
-![here](./resources/media/densenet_train.png)
-![here](./resources/media/densenet_train2.png)
+![here](./densenet_train.png)
+![here](./densenet_train2.png)
 ## predict.py
-![here](./resources/media/densenet_predict.png)
+![here](.//densenet_predict.png)
 
 
